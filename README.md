@@ -1,4 +1,4 @@
- # Lộ trình The Complete JavaScript Course * Beginner to Professional 
+ # The Complete JavaScript Course Beginner to Professional 
 
 
 # Gettting Started With JavaScript (50p)
